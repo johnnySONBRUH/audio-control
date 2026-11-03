@@ -41,4 +41,3 @@ The macro pad consists of 4 physical buttons mapped to the following functions:
 | Common    | GND |
 
 *Note: The code uses `INPUT_PULLUP`, so switches should be wired between the digital pin and Ground.*
-a
